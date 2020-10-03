@@ -1,0 +1,2 @@
+# PyShop
+PyShop is an e-commerce website built on the Django framework. I have implemented models for maintaining the products list, it's price, and quantity through the admin panel. You don't need to code for every product one can just add, delete, and modify any product using the admin panel. Also, there is the option of add to the cart after that you can purchase the products (these all are future implementations).
